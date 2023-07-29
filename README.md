@@ -1,6 +1,8 @@
 # RENTZ_WEBSITE
 "RENTZ" is a comprehensive car rental website built using PHP, HTML, CSS, JavaScript, and SQL. The website serves both clients and administrators, providing an intuitive user interface for renting cars and managing the car inventory.
 Here's a description of its key features:
+
+
 1.Client-side Features:
 Home Page: The landing page displays various car brands available for rent. Each brand is clickable.
 Brand Page: Clicking on a brand name takes the user to a page showing all available cars from that particular brand.
